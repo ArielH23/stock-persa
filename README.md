@@ -67,7 +67,7 @@ Python y diseñado con PyQt5
   6) Hit "Conclude sale"
   (All sales made will be saved in the sales history)
 
-  ABMC and Sales have their checks to avoid incorrectly entering the data
+  CRUD and Sales have their checks to avoid incorrectly entering the data
 ### Prerequisites
 
    You need to have Visual Studio Code installed, also see the "requirements" txt to see the required libraries and also chrome to the latest version
