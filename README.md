@@ -7,7 +7,7 @@
   
   Baja: Selecciona primero el producto a eliminar y lo elimina
   
-  Modificación: Todo es modificable
+  Modificación: Todo del producto modificable
   
   Consulta: la tabla misma te muestra los productos
 
@@ -37,3 +37,46 @@ Python y diseñado con PyQt5
 ## Autor
 
   - **Ariel Harispe**
+
+### Inglish:
+
+# stock-persa
+  Project made to apply learned knowledge
+
+### Features
+
+  Create: The .png .jpg .jpeg photo from the photos folder is loaded, product characteristics and finally the price in pesos
+  
+  Delete: First select the product to delete and delete it
+  
+  Update: Everything of the product is updated
+  
+  Query: the table itself shows you the products
+
+  Price Adaptable to date:
+  When opening the program for the first time, selenium will be executed and it will open the page to get the price of it and be able to create the txt and show the price of the dollar in the main tab
+  (If there is no internet, a warning will appear)
+  If you want to update the price, click on the upper left "Menu" button and then update the price and the program will update the txt and I get the prices of the products
+
+  Sale:
+  1) Select the product to sell
+  2) Click the "Sell" button
+  3) Put the amount to sell
+  4) Choose the currency of the price and its said price
+  5) Choose the place of sale
+  6) Hit "Conclude sale"
+  (All sales made will be saved in the sales history)
+
+  ABMC and Sales have their checks to avoid incorrectly entering the data
+### Prerequisites
+
+   You need to have Visual Studio Code installed, also see the "requirements" txt to see the required libraries and also chrome to the latest version
+
+## Scheduled in
+
+Python and designed with PyQt5
+
+## Author
+
+  - **Ariel Harispe**
+
